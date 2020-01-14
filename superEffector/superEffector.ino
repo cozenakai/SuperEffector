@@ -1,4 +1,3 @@
-
 const int analogInPin = 5; // CdSを接続するアナログ入力ピン
 const int ledPin = 3; // LEDを接続するピン
 int sensorValue; // センサー値用
